@@ -1,6 +1,6 @@
 # winotes
 
-An unofficial Python wrapper for **Windows Sticky Notes**, built by reverse-engineering the app's local SQLite database (`plum.sqlite`). No official API exists — this talks directly to the database and automatically restarts the app after every write so changes appear instantly.
+An unofficial Python wrapper for **Windows Sticky Notes**, built by reverse-engineering the app's local SQLite database (`plum.sqlite`). No official API exists, this talks directly to the database and automatically restarts the app after every write so changes appear instantly.
 
 ---
 
